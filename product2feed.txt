@@ -1,0 +1,2 @@
+id	title	description	link	condition	price	availability	image link	gtin	shipping	brand	google product category	color
+product2	Rubber Duck	Yellow rubber duck, suitable for all ages.	https://fejesjoco.github.io/testshop/product1	new	CHF 120000	in stock	https://fejesjoco.github.io/testshop/product2img.jpg	7657591014874		Joco	Toys & Games > Toys	yellow

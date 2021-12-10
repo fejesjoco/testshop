@@ -1,0 +1,2 @@
+id	title	description	link	condition	price	availability	image link	gtin	shipping	brand	google product category	color
+product1	Cat Puppet	Cat puppet made out of socks, suitable for all ages.	https://fejesjoco.github.io/testshop/product1	new	CHF 150000	in stock	https://fejesjoco.github.io/testshop/product1img.jpg	7657591014867		Joco	Toys & Games > Toys	purple/white
